@@ -1,18 +1,4 @@
-# SENTIMENT-ANALYSIS_4
-
-COMPANY : CODTECH IT SOLUTIONS
-
-NAME : DEVALLA ADITHYA
-
-INTERN ID :CT6WGIY
-
-DOMAIN: DATA ANALYSIS
-
-**BATCH DURATION: December 25th, 2024 to February 10th, 2025
-
-**MENTOR NAME: NEELA SANTHOSH
-
-DESCRIPTION OF TASK :
+# SENTIMENT-ANALYSIS
 
 Sentiment analysis is the process of determining the sentiment expressed in a piece of text, such as tweets or reviews. It is a valuable technique in Natural Language Processing (NLP) that helps businesses and organizations understand how people feel about their products, services, or even political events. The goal of sentiment analysis is to classify the text as expressing positive, negative, or neutral sentiment.
 
